@@ -1,4 +1,5 @@
-# sprint_5_project
+# Market Insights: Exploring Distribution and Correlation in US Car Ads
+
 Repository to store and work on the project for Sprint 5 of the Data Science course of Tripleten.
 This project's objective is to develop basic concepts of web-developing and intermediate python coding skills. 
 
